@@ -1,0 +1,48 @@
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces \textbf {Volume \IeC {\'U}til dos Reservat\IeC {\'o}rios do Sistema Hidr\IeC {\'a}ulico Para\IeC {\'\i }ba do Sul}\relax }}{15}{figure.caption.13}
+\contentsline {figure}{\numberline {2}{\ignorespaces \textbf {TecHydro Monitoramento e Controle remoto de hidr\IeC {\^o}metros}\relax }}{17}{figure.caption.15}
+\contentsline {figure}{\numberline {3}{\ignorespaces \textbf {Abstra\IeC {\c c}\IeC {\~a}o}\relax }}{18}{figure.caption.16}
+\contentsline {figure}{\numberline {4}{\ignorespaces \textbf {Etapas do processo KDD}\relax }}{20}{figure.caption.17}
+\contentsline {figure}{\numberline {5}{\ignorespaces \textbf {Dist\IeC {\^a}ncia Euclidiana}\relax }}{21}{figure.caption.18}
+\contentsline {figure}{\numberline {6}{\ignorespaces \textbf {Arquivo de Dados formato \emph {Excel}}\relax }}{23}{figure.caption.19}
+\contentsline {figure}{\numberline {7}{\ignorespaces \textbf {Importando as Bibliotecas}\relax }}{24}{figure.caption.20}
+\contentsline {figure}{\numberline {8}{\ignorespaces \textbf {Importa\IeC {\c c}\IeC {\~a}o do arquivo}\relax }}{24}{figure.caption.21}
+\contentsline {figure}{\numberline {9}{\ignorespaces \textbf {Mostrando conte\IeC {\'u}do do Data Frame}\relax }}{24}{figure.caption.22}
+\contentsline {figure}{\numberline {10}{\ignorespaces \textbf {Separa\IeC {\c c}\IeC {\~a}o da coluna Data e Hora}\relax }}{25}{figure.caption.23}
+\contentsline {figure}{\numberline {11}{\ignorespaces \textbf {Data Frame modificado}\relax }}{25}{figure.caption.24}
+\contentsline {figure}{\numberline {12}{\ignorespaces \textbf {Fun\IeC {\c c}\IeC {\~o}es \emph {Describe e mean}}\relax }}{26}{figure.caption.25}
+\contentsline {figure}{\numberline {13}{\ignorespaces \textbf {Algoritmo para plotagem dos dados}\relax }}{26}{figure.caption.26}
+\contentsline {figure}{\numberline {14}{\ignorespaces \textbf {Fun\IeC {\c c}\IeC {\~a}o para calculo das m\IeC {\'e}dias di\IeC {\'a}rias}\relax }}{27}{figure.caption.27}
+\contentsline {figure}{\numberline {15}{\ignorespaces \textbf {Exemplo de Dist\IeC {\^a}ncia Euclidiana em \emph {Python}}\relax }}{28}{figure.caption.28}
+\contentsline {figure}{\numberline {16}{\ignorespaces \textbf {Exemplo de Dist\IeC {\^a}ncia Euclidiana em \emph {Python} com biblioteca \emph {Numpy}}\relax }}{28}{figure.caption.29}
+\contentsline {figure}{\numberline {17}{\ignorespaces \textbf {Aplica\IeC {\c c}\IeC {\~a}o Dist\IeC {\^a}ncia Euclidiana nos meses de Mar\IeC {\c c}o e Abril de 2018}\relax }}{29}{figure.caption.30}
+\contentsline {figure}{\numberline {18}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o dos meses de mar\IeC {\c c}o e abril de 2018 com a Dist\IeC {\^a}ncia Euclidiana}\relax }}{30}{figure.caption.31}
+\contentsline {figure}{\numberline {19}{\ignorespaces \textbf {Aplica\IeC {\c c}\IeC {\~a}o da Distancia Euclidiana entre duas semanas setembro de 2017}\relax }}{31}{figure.caption.32}
+\contentsline {figure}{\numberline {20}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o entre duas semanas com a Dist\IeC {\^a}ncia Euclidiana}\relax }}{32}{figure.caption.33}
+\contentsline {figure}{\numberline {21}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o entre duas semanas com a Dist\IeC {\^a}ncia Euclidianas Detalhadas}\relax }}{32}{figure.caption.34}
+\contentsline {figure}{\numberline {22}{\ignorespaces \textbf {Aplica\IeC {\c c}\IeC {\~a}o da Distancia Euclidiana entre os dias 09 e 16 de setembro de 2017}\relax }}{33}{figure.caption.35}
+\contentsline {figure}{\numberline {23}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o entre os dias 09 e 16 de setembro de 2017 com Dist\IeC {\^a}ncia Euclidiana}\relax }}{34}{figure.caption.36}
+\contentsline {figure}{\numberline {24}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o entre Domingos}\relax }}{34}{figure.caption.37}
+\contentsline {figure}{\numberline {25}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o entre Segundas-Feiras}\relax }}{35}{figure.caption.38}
+\contentsline {figure}{\numberline {26}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o entre Ter\IeC {\c c}as-Feiras}\relax }}{35}{figure.caption.39}
+\contentsline {figure}{\numberline {27}{\ignorespaces \textbf {Gr\IeC {\'a}fico de Compara\IeC {\c c}\IeC {\~a}o dos dados entre Quartas-feiras}\relax }}{36}{figure.caption.40}
+\contentsline {figure}{\numberline {28}{\ignorespaces \textbf {Gr\IeC {\'a}fico de Compara\IeC {\c c}\IeC {\~a}o dos dados entre Quintas-feiras}\relax }}{36}{figure.caption.41}
+\contentsline {figure}{\numberline {29}{\ignorespaces \textbf {Gr\IeC {\'a}fico de Compara\IeC {\c c}\IeC {\~a}o dos dados entre Sextas-feiras}\relax }}{37}{figure.caption.42}
+\contentsline {figure}{\numberline {30}{\ignorespaces \textbf {Gr\IeC {\'a}fico de Compara\IeC {\c c}\IeC {\~a}o dos dados entre S\IeC {\'a}bados}\relax }}{37}{figure.caption.43}
+\contentsline {figure}{\numberline {31}{\ignorespaces \textbf {Gr\IeC {\'a}fico de compara\IeC {\c c}\IeC {\~a}o com diferen\IeC {\c c}a entre 03 a 09/09 e 10 a 16/09}\relax }}{38}{figure.caption.44}
+\contentsline {figure}{\numberline {32}{\ignorespaces \textbf {Gr\IeC {\'a}fico detalha a compara\IeC {\c c}\IeC {\~a}o com diferen\IeC {\c c}a entre a 09/09 e 16/09}\relax }}{38}{figure.caption.45}
+\contentsline {figure}{\numberline {33}{\ignorespaces \textbf {Figuras mostrando os dias com maior consumo de \IeC {\'a}gua}\relax }}{39}{figure.caption.46}
+\contentsline {figure}{\numberline {34}{\ignorespaces \textbf {Plotagem dos dados dos dias de maior consumo}\relax }}{40}{figure.caption.47}
+\contentsline {figure}{\numberline {35}{\ignorespaces \textbf {Gr\IeC {\'a}fico com m\IeC {\'e}dias di\IeC {\'a}rias de toda amostragem}\relax }}{40}{figure.caption.48}
+\contentsline {figure}{\numberline {36}{\ignorespaces \textbf {Gr\IeC {\'a}fico detalhado com m\IeC {\'e}dias di\IeC {\'a}rias}\relax }}{41}{figure.caption.49}
+\contentsline {figure}{\numberline {37}{\ignorespaces \textbf {Gr\IeC {\'a}fico com m\IeC {\'e}dias di\IeC {\'a}rias dos meses setembro e outubro com Dist\IeC {\^a}ncia Euclidiana}\relax }}{41}{figure.caption.50}
+\contentsline {figure}{\numberline {38}{\ignorespaces \textbf {Gr\IeC {\'a}fico do Total Di\IeC {\'a}rio de toda amostragem}\relax }}{42}{figure.caption.51}
+\contentsline {figure}{\numberline {39}{\ignorespaces \textbf {Gr\IeC {\'a}fico detalhado da Total Di\IeC {\'a}rio}\relax }}{42}{figure.caption.52}
+\contentsline {figure}{\numberline {40}{\ignorespaces \textbf {Gr\IeC {\'a}fico do Total Di\IeC {\'a}rio entre dois meses com Dist\IeC {\^a}ncia Euclidiana}\relax }}{43}{figure.caption.53}
+\contentsline {figure}{\numberline {41}{\ignorespaces \textbf {Gr\IeC {\'a}fico Simula\IeC {\c c}\IeC {\~a}o de vazamento}\relax }}{43}{figure.caption.54}
+\contentsline {figure}{\numberline {42}{\ignorespaces \textbf {Simula\IeC {\c c}\IeC {\~a}o de vazamento}\relax }}{44}{figure.caption.55}
+\contentsline {figure}{\numberline {43}{\ignorespaces \textbf {Gr\IeC {\'a}fico com a simula\IeC {\c c}\IeC {\~a}o de vazamento com dist\IeC {\^a}ncia euclidiana}\relax }}{44}{figure.caption.56}
+\contentsline {figure}{\numberline {44}{\ignorespaces \textbf {Gr\IeC {\'a}fico da m\IeC {\'e}dia hora a hora do arquivo todo}\relax }}{45}{figure.caption.57}
+\contentsline {figure}{\numberline {45}{\ignorespaces \textbf {Gr\IeC {\'a}fico da m\IeC {\'e}dia hora a hora entre Fevereiro e Mar\IeC {\c c}o e a m\IeC {\'e}dia do arquivo todo}\relax }}{45}{figure.caption.58}
+\contentsline {figure}{\numberline {46}{\ignorespaces \textbf {Gr\IeC {\'a}fico da m\IeC {\'e}dia hora a hora entre Fevereiro, Mar\IeC {\c c}o e Abril e a m\IeC {\'e}dia do arquivo todo}\relax }}{46}{figure.caption.59}

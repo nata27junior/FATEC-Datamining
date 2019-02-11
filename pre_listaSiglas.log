@@ -1,0 +1,544 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.28)  29 JAN 2019 23:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pre_listaSiglas.tex
+(./pre_listaSiglas.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 6 language(s) loaded.
+
+! LaTeX Error: Environment siglas undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{siglas}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 	\item[SABESP]
+                     			\emph{Companhia de Saneamento B√°sico do Estado de S...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti10!
+Missing character: There is no ° in font cmti10!
+Missing character: There is no √ in font cmti10!
+Missing character: There is no £ in font cmti10!
+
+Overfull \hbox (49.06638pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 Companhia
+ []
+
+
+Overfull \hbox (9.71104pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 de
+ []
+
+
+Overfull \hbox (29.13313pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 Sanea-
+ []
+
+
+Overfull \hbox (26.83316pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 mento
+ []
+
+
+Overfull \hbox (23.39429pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 Bsico
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 do
+ []
+
+
+Overfull \hbox (14.4499pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 Es-
+ []
+
+
+Overfull \hbox (18.65544pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 tado
+ []
+
+
+Overfull \hbox (9.71104pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 de
+ []
+
+
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 So
+ []
+
+
+Overfull \hbox (25.55887pt too wide) in paragraph at lines 2--3
+\OT1/cmr/m/it/10 Paulo 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 	\item[ANA]
+                 	    		\emph{Ag√™ncia Nacional de √Åguas}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti10!
+Missing character: There is no ™ in font cmti10!
+Missing character: There is no √ in font cmti10!
+Missing character: There is no Å in font cmti10!
+
+Overfull \hbox (29.92201pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 Agncia
+ []
+
+
+Overfull \hbox (16.12212pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 Na-
+ []
+
+
+Overfull \hbox (26.06651pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 cional
+ []
+
+
+Overfull \hbox (9.71104pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 de
+ []
+
+
+Overfull \hbox (19.98737pt too wide) in paragraph at lines 3--4
+\OT1/cmr/m/it/10 guas 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 	\item[MQTT]
+                 				\emph{Message Queuing Telemetry Transport}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (36.05531pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 Message
+ []
+
+
+Overfull \hbox (26.5776pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 Queu-
+ []
+
+
+Overfull \hbox (13.2888pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (34.49974pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 Teleme-
+ []
+
+
+Overfull \hbox (12.39433pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 try
+ []
+
+
+Overfull \hbox (28.49423pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 Trans-
+ []
+
+
+Overfull \hbox (18.19847pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/it/10 port 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 	\item[UHE Funil]
+                      			\emph{Usina Hidrel√©trica Funil}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti10!
+Missing character: There is no © in font cmti10!
+
+Overfull \hbox (25.32208pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 Usina
+ []
+
+
+Overfull \hbox (30.04977pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 Hidrel-
+ []
+
+
+Overfull \hbox (19.80539pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 trica
+ []
+
+
+Overfull \hbox (14.70544pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 Fu-
+ []
+
+
+Overfull \hbox (12.27773pt too wide) in paragraph at lines 5--6
+\OT1/cmr/m/it/10 nil 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 	\item[UHE Jaguari]
+                        			\emph{Usina Hidrel√©trica Jaguari}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti10!
+Missing character: There is no © in font cmti10!
+
+Overfull \hbox (25.32208pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/it/10 Usina
+ []
+
+
+Overfull \hbox (30.04977pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/it/10 Hidrel-
+ []
+
+
+Overfull \hbox (19.80539pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/it/10 trica
+ []
+
+
+Overfull \hbox (33.74095pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/it/10 Jaguari 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 	\item[UHE Paraibuna]
+                          		\emph{Usina Hidrel√©trica Paraibuna}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti10!
+Missing character: There is no © in font cmti10!
+
+Overfull \hbox (25.32208pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 Usina
+ []
+
+
+Overfull \hbox (30.04977pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 Hidrel-
+ []
+
+
+Overfull \hbox (19.80539pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 trica
+ []
+
+
+Overfull \hbox (27.35536pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 Parai-
+ []
+
+
+Overfull \hbox (21.46701pt too wide) in paragraph at lines 7--8
+\OT1/cmr/m/it/10 buna 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 	\item[UHE Santa Branca]
+                             \emph{Usina Hidrel√©trica Santa Branca}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no √ in font cmti10!
+Missing character: There is no © in font cmti10!
+
+Overfull \hbox (25.32208pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/it/10 Usina
+ []
+
+
+Overfull \hbox (30.04977pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/it/10 Hidrel-
+ []
+
+
+Overfull \hbox (19.80539pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/it/10 trica
+ []
+
+
+Overfull \hbox (24.78874pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/it/10 Santa
+ []
+
+
+Overfull \hbox (31.44469pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/it/10 Branca 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 	\item[BSD]
+                					\emph{Berkeley Software Distribution}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (37.06638pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 Berkeley
+ []
+
+
+Overfull \hbox (20.69986pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 Soft-
+ []
+
+
+Overfull \hbox (20.06096pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 ware
+ []
+
+
+Overfull \hbox (18.2832pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 Dis-
+ []
+
+
+Overfull \hbox (14.18321pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tri-
+ []
+
+
+Overfull \hbox (13.54434pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 bu-
+ []
+
+
+Overfull \hbox (17.88925pt too wide) in paragraph at lines 9--10
+\OT1/cmr/m/it/10 tion 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 	\item[IDE]
+                				    \emph{Integrated Development Environment}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (42.82741pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 Integrated
+ []
+
+
+Overfull \hbox (15.72765pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 De-
+ []
+
+
+Overfull \hbox (15.3332pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 vel-
+ []
+
+
+Overfull \hbox (13.79991pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 op-
+ []
+
+
+Overfull \hbox (21.72208pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 ment
+ []
+
+
+Overfull \hbox (15.98323pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 En-
+ []
+
+
+Overfull \hbox (11.24435pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 vi-
+ []
+
+
+Overfull \hbox (18.01653pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 ron-
+ []
+
+
+Overfull \hbox (22.67068pt too wide) in paragraph at lines 10--11
+\OT1/cmr/m/it/10 ment 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 	\item[KDD]
+                					\emph{Knowledge Discovery in Databases}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (46.53302pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Knowledge
+ []
+
+
+Overfull \hbox (18.2832pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Dis-
+ []
+
+
+Overfull \hbox (17.37762pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 cov-
+ []
+
+
+Overfull \hbox (13.6721pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 ery
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 in
+ []
+
+
+Overfull \hbox (43.89273pt too wide) in paragraph at lines 11--12
+\OT1/cmr/m/it/10 Databases 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 	\item[GNU]
+                 					\emph{General Public License}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (33.93031pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/it/10 General
+ []
+
+
+Overfull \hbox (20.32764pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/it/10 Pub-
+ []
+
+
+Overfull \hbox (10.22215pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/it/10 lic
+ []
+
+
+Overfull \hbox (12.91656pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/it/10 Li-
+ []
+
+
+Overfull \hbox (23.7512pt too wide) in paragraph at lines 12--13
+\OT1/cmr/m/it/10 cense 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{siglas}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{siglas}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> pre_listaSiglas.tex
+                       
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10 strings out of 494862
+ 206 string characters out of 6178946
+ 49576 words of memory out of 5000000
+ 3438 multiletter control sequences out of 15000+600000
+ 3986 words of font info for 15 fonts, out of 8000000 for 9000
+ 38 hyphenation exceptions out of 8191
+ 14i,1n,10p,120b,81s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

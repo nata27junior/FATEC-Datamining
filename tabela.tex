@@ -1,0 +1,91 @@
+\documentclass[
+	12pt,		% Tamanho da fonte
+	a4paper,	% Tamanho do papel
+	english,	% Idioma adicional
+	brazil,		% Idioma principal
+	openright,	% Capitulos começam em pag impar
+	oneside		% Apenas 1 página por folha
+	]{abntex2}
+
+
+%\usepackage{lmodern}			% Usa a fonte Latin Modern
+%\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento
+%\usepackage{lastpage}			% Usado pela Ficha catalográfica
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+%\usepackage{color}				% Controle das cores
+\usepackage[table]{xcolor}
+\usepackage{graphicx}			% Inclusão de gráficos
+%\usepackage{microtype} 			% para melhorias de justificação
+%\usepackage{lipsum}				% para geração de dummy text
+\usepackage{geometry}			% para alteração no layout das páginas
+\usepackage{lscape}             % colocar páginas na horizontal compativel com longtable e supertabular.
+\usepackage{bookmark}
+\usepackage{caption}            % adiciona \caption*{d} para criar fontes em imagens.
+\usepackage{float}				% para uso no posicionamento de imagens
+\usepackage{pdfpages}
+\usepackage{minibox}
+\usepackage{listings}
+\usepackage[brazil]{babel}
+\usepackage{multirow}           % Habilita o Merge de celulas na table
+%\usepackage{abntex2cite}
+
+\usepackage{amsmath, calc}
+\usepackage{siunitx,booktabs}
+
+\begin{document}
+
+
+
+\begin{figure}[h]
+\caption{\textbf{Distância Euclidiana}}
+\centering
+
+    \newlength\dlf
+    \newcommand\alignedbox[2]{
+      % #1 = before alignment
+      % #2 = after alignment
+      &
+      \begingroup
+      \settowidth\dlf{$\displaystyle #1$}
+      \addtolength\dlf{\fboxsep+\fboxrule}
+      \hspace{-\dlf}
+      \fcolorbox{black}{gray!30}{$\displaystyle #1 #2$}
+      \endgroup
+    }
+
+    \begin{align}\
+        \alignedbox{}{D=\sqrt{ \sum\limits_{k=1}^n (P_{ik}-P_{jk})^2}}
+    \end{align}
+       \label{distancia_euclidiana}
+       %\fonte{\cite{manly2016multivariate}}
+    \end{figure}
+% ######## init table ########
+\begin{table}[h]
+\caption{ \textbf{Dados dos Volumes Útil dos Reservatórios do Sistema Hidráulico Paraíba do Sul}}
+\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+\rowcolor[HTML]{80C397} 
+\textbf{ANO}                          & \textbf{\begin{tabular}[c]{@{}c@{}}UHE \\ Funil\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}UHE\\  Jaguari\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}UHE\\  Paraibuna\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}UHE\\  Santa Branca\end{tabular}} & \textbf{\begin{tabular}[c]{@{}c@{}}Reservatório \\ Equivalente\end{tabular}} \\ \hline
+\textbf{2009}                         & \textbf{75,66\%}                                              & \textbf{97,62\%}                                                & \textbf{86,10\%}                                                  & \textbf{82,18\%}                                                     & \textbf{86,47\%}                                                             \\ \hline
+\rowcolor[HTML]{80C397} 
+\textbf{2010}                         & \textbf{86,21\%}                                              & \textbf{98,95\%}                                                & \textbf{92,26\%}                                                  & \textbf{99,45\%}                                                     & \textbf{93,15\%}                                                             \\ \hline
+\textbf{2011}                         & \textbf{78,60\%}                                              & \textbf{103,11\%}                                               & \textbf{92,92\%}                                                  & \textbf{99,36\%}                                                     & \textbf{93,24\%}                                                             \\ \hline
+\rowcolor[HTML]{80C397} 
+\textbf{2012}                         & \textbf{87,20\%}                                              & \textbf{94,18\%}                                                & \textbf{58,84\%}                                                  & \textbf{76,72\%}                                                     & \textbf{70,51\%}                                                             \\ \hline
+\textbf{2013}                         & \textbf{53,87\%}                                              & \textbf{78,93\%}                                                & \textbf{63,36\%}                                                  & \textbf{70,78\%}                                                     & \textbf{65,40\%}                                                             \\ \hline
+\rowcolor[HTML]{80C397} 
+\textbf{2014}                         & \textbf{25,63\%}                                              & \textbf{42,06\%}                                                & \textbf{23,27\%}                                                  & \textbf{48,92\%}                                                     & \textbf{28,84\%}                                                             \\ \hline
+\cellcolor[HTML]{FFFFFF}\textbf{2015} & \textbf{39,23\%}                                              & \textbf{27,87\%}                                                & \textbf{63,80\%}                                                  & \textbf{13,69\%}                                                     & \textbf{15,40\%}                                                             \\ \hline
+\rowcolor[HTML]{80C397} 
+\textbf{2016}                         & \textbf{99,60\%}                                              & \textbf{70,25\%}                                                & \textbf{37,77\%}                                                  & \textbf{41,53\%}                                                     & \textbf{52,59\%}                                                             \\ \hline
+\textbf{2017}                         & \textbf{29,78\%}                                              & \textbf{67,75\%}                                                & \textbf{71,69\%}                                                  & \textbf{24,24\%}                                                     & \textbf{61,77\%}                                                             \\ \hline
+\rowcolor[HTML]{80C397} 
+\textbf{2018}                         & \textbf{44,16\%}                                              & \textbf{49,42\%}                                                & \textbf{44,84\%}                                                  & \textbf{67,43\%}                                                     & \textbf{47,18\%}                                                             
+
+\end{tabular}
+\label{table:table_ana}
+%\fonte{Adaptada pelo autor, de \citeonline{ana1}}
+\end{table}
+\end{document}

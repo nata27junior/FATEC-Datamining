@@ -1,0 +1,362 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.1)  5 FEB 2019 14:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pre_folhaAprov.tex
+(./pre_folhaAprov.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 10 language(s) loaded.
+
+! LaTeX Error: Environment folhadeaprovacao undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{folhadeaprovacao}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3   \begin{center}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+! Undefined control sequence.
+l.4     {\ABNTEXchapterfont
+                           \large\imprimirautor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4     {\ABNTEXchapterfont\large
+                                 \imprimirautor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4     {\ABNTEXchapterfont\large\imprimirautor
+                                               }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8       \ABNTEXchapterfont
+                            \bfseries\Large\imprimirtitulo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8       \ABNTEXchapterfont\bfseries\Large
+                                           \imprimirtitulo
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.8 ...EXchapterfont\bfseries\Large\imprimirtitulo
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.14         \imprimirpreambulo
+                               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 15.
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+! Undefined control sequence.
+<recently read> \assinatura 
+                            
+l.21    \assinatura
+                   {\textbf{\imprimirorientador  â€“ FATEC â€“SJC.} \\ Orien...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \imprimirorientador 
+                                    
+l.21 ...bf{\imprimirorientador  â€“ FATEC â€“SJC.}
+                                                   \\ Orientador\\}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no “ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no “ in font cmbx10!
+Missing character: There is no O in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no “ in font cmbx10!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no “ in font cmbx10!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no â in font cmbx10!
+Missing character: There is no € in font cmbx10!
+Missing character: There is no “ in font cmbx10!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+
+Overfull \hbox (199.16928pt too wide) in paragraph at lines 20--30
+[] 
+ []
+
+
+Overfull \hbox (37.55534pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 FATEC
+ []
+
+
+Overfull \hbox (23.8332pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 SJC. 
+ []
+
+
+Overfull \hbox (199.16928pt too wide) in paragraph at lines 20--30
+[] 
+ []
+
+
+Overfull \hbox (29.26373pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Diogo
+ []
+
+
+Overfull \hbox (28.729pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Bran-
+ []
+
+
+Overfull \hbox (34.18037pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 quinho
+ []
+
+
+Overfull \hbox (37.27893pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Ramos,
+ []
+
+
+Overfull \hbox (38.39703pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Mestre,
+ []
+
+
+Overfull \hbox (27.69429pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 TEC-
+ []
+
+
+Overfull \hbox (21.62488pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 SUS
+ []
+
+
+Overfull \hbox (37.55534pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 FATEC
+ []
+
+
+Overfull \hbox (23.8332pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 SJC. 
+ []
+
+
+Overfull \hbox (199.16928pt too wide) in paragraph at lines 20--30
+[] 
+ []
+
+
+Overfull \hbox (43.65253pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Emanuel
+ []
+
+
+Overfull \hbox (37.74979pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Mineda
+ []
+
+
+Overfull \hbox (47.16643pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Carneiro,
+ []
+
+
+Overfull \hbox (38.39703pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 Mestre,
+ []
+
+
+Overfull \hbox (37.55534pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 FATEC
+ []
+
+
+Overfull \hbox (23.8332pt too wide) in paragraph at lines 20--30
+\OT1/cmr/bx/n/10 SJC. 
+ []
+
+! Undefined control sequence.
+l.32     {\large
+                \imprimirlocal}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.32     {\large\imprimirlocal
+                              }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34     {\large
+                \imprimirdata}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.34     {\large\imprimirdata
+                             }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{folhadeaprovacao}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{folhadeaprovacao}
+                           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> pre_folhaAprov.tex
+                      
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 494789
+ 278 string characters out of 6177365
+ 47821 words of memory out of 5000000
+ 3449 multiletter control sequences out of 15000+600000
+ 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 83 hyphenation exceptions out of 8191
+ 20i,2n,18p,143b,144s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: TG - Aplicação de Data Mining para monitoramento de possíveis desperdícios de água em residências e empresas.- Natanael Junior.aux
+A level-1 auxiliary file: pre_cip.aux
+A level-1 auxiliary file: pre_folhaAprov.aux
+A level-1 auxiliary file: pre_dedic.aux
+A level-1 auxiliary file: pre_agrad.aux
+A level-1 auxiliary file: pre_epigrafe.aux
+A level-1 auxiliary file: pre_resumos.aux
+A level-1 auxiliary file: pre_listaSiglas.aux
+A level-1 auxiliary file: pre_listaSimb.aux
+A level-1 auxiliary file: cap1_intro.aux
+A level-1 auxiliary file: cap2_cont.aux
+A level-1 auxiliary file: cap3_dev.aux
+A level-1 auxiliary file: cap4_cases.aux
+A level-1 auxiliary file: cap5_concl.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: referencias.bib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.6           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 15 entries,
+            6714 wiz_defined-function locations,
+            1268 strings with 10975 characters,
+and the built_in function-call counts, 12907 in all, are:
+= -- 1526
+> -- 116
+< -- 279
++ -- 362
+- -- 36
+* -- 732
+:= -- 1497
+add.period$ -- 47
+call.type$ -- 15
+change.case$ -- 86
+chr.to.int$ -- 22
+cite$ -- 11
+duplicate$ -- 1151
+empty$ -- 825
+format.name$ -- 163
+if$ -- 2866
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 223
+newline$ -- 62
+num.names$ -- 20
+pop$ -- 271
+preamble$ -- 1
+purify$ -- 48
+quote$ -- 0
+skip$ -- 1374
+stack$ -- 1
+substring$ -- 534
+swap$ -- 410
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 41
+width$ -- 0
+write$ -- 173

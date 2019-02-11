@@ -1,0 +1,71 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[ANA 2018]{ana1}
+\abntrefinfo{ANA}{ANA}{2018}
+{ANA. \emph{Boletins de Monitoramento dos Reservatórios do Sistema Hidráulico
+  do Rio Paraíba do Sul}. 2018.
+Dispon{\'\i}vel em:
+  \url{http://www3.ana.gov.br/portal/ANA/sala-de-situacao/paraiba-do-sul}.
+  Acesso em: 10 set. 2018.}
+
+\bibitem[binapratica 2017]{Elias}
+\abntrefinfo{binapratica}{BINAPRATICA}{2017}
+{BINAPRATICA. \emph{Dados VS Informação: Qual a diferença?} 2017.
+Dispon{\'\i}vel em: \url{https://www.binapratica.com.br/dados-x-informacao}.
+  Acesso em: 10 nov. 2017.}
+
+\bibitem[Dig 2004]{dig2004privacy}
+\abntrefinfo{Dig}{DIG}{2004}
+{DIG, Think Before~You. Privacy implications of data mining \& aggregation.
+\emph{NASCIO Research Brief}, 2004.}
+
+\bibitem[Fayyad, Piatetsky-Shapiro e Smyth 1996]{fayyad1996data}
+\abntrefinfo{Fayyad, Piatetsky-Shapiro e Smyth}{FAYYAD; PIATETSKY-SHAPIRO;
+  SMYTH}{1996}
+{FAYYAD, Usama; PIATETSKY-SHAPIRO, Gregory; SMYTH, Padhraic. From data mining
+  to knowledge discovery in databases.
+\emph{AI magazine}, v.~17, n.~3, p.~37, 1996.}
+
+\bibitem[Jupyter 2018]{jupyter}
+\abntrefinfo{Jupyter}{JUPYTER}{2018}
+{JUPYTER. \emph{Jupyter Project and Community}. 2018.
+Dispon{\'\i}vel em: \url{https://jupyter.org/about}. Acesso em: 10 set. 2018.}
+
+\bibitem[Manly e Alberto 2016]{manly2016multivariate}
+\abntrefinfo{Manly e Alberto}{MANLY; ALBERTO}{2016}
+{MANLY, Bryan~FJ; ALBERTO, Jorge A~Navarro. \emph{Multivariate statistical
+  methods: a primer}. [S.l.]: Chapman and Hall/CRC, 2016.}
+
+\bibitem[Matplotlib 2018]{matplotlib}
+\abntrefinfo{Matplotlib}{MATPLOTLIB}{2018}
+{MATPLOTLIB. \emph{https://numfocus.org/}. 2018.
+Dispon{\'\i}vel em: \url{https://matplotlib.org/}. Acesso em: 10 set. 2018.}
+
+\bibitem[Numpy 2018]{numpy}
+\abntrefinfo{Numpy}{NUMPY}{2018}
+{NUMPY. \emph{Pyscience-brasil}. 2018.
+Dispon{\'\i}vel em: \url{http://pyscience-brasil.wikidot.com/module:numpy}.
+  Acesso em: 10 set. 2018.}
+
+\bibitem[Pandas 2018]{pandas}
+\abntrefinfo{Pandas}{PANDAS}{2018}
+{PANDAS. \emph{Python Data Analysis Library}. 2018.
+Dispon{\'\i}vel em: \url{https://pandas.pydata.org/}. Acesso em: 10 set. 2018.}
+
+\bibitem[Python 2018]{python}
+\abntrefinfo{Python}{PYTHON}{2018}
+{PYTHON. \emph{Python Software Foundation}. 2018.
+Dispon{\'\i}vel em: \url{https://www.python.org/about/}. Acesso em: 10 set.
+  2018.}
+
+\bibitem[Regazzi 2002]{regazzi2002analise}
+\abntrefinfo{Regazzi}{REGAZZI}{2002}
+{REGAZZI, AJ. An{\'a}lise multivariada.
+\emph{Vi{\c{c}}osa, MG: Universidade Federal de Vi{\c{c}}osa}, v.~2, 2002.}
+
+\end{thebibliography}

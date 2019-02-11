@@ -1,0 +1,220 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.28)  29 JAN 2019 23:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**pre_dedic.tex
+(./pre_dedic.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 6 language(s) loaded.
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \usepackage[brazil]{
+                        babel}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \usepackage[utf8]{
+                      inputenc}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+! LaTeX Error: Environment dedicatoria undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \begin{dedicatoria}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6    \begin{flushright}
+                         
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--6
+[] 
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no   in font cmti10!
+
+Overfull \hbox (29.01643pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 Dedico
+ []
+
+
+Overfull \hbox (16.61098pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 este
+ []
+
+
+Overfull \hbox (15.71652pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 tra-
+ []
+
+
+Overfull \hbox (21.97763pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 balho
+ []
+
+
+Overfull \hbox (40.63304pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 primeira-
+ []
+
+
+Overfull \hbox (26.32204pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 mente
+ []
+
+
+Overfull \hbox (24.67206pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 Deus,
+ []
+
+Missing character: There is no Ã in font cmti10!
+Missing character: There is no º in font cmti10!
+
+Overfull \hbox (30.92197pt too wide) in paragraph at lines 10--10
+ []\OT1/cmr/m/it/10 socorro
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 pre-
+ []
+
+
+Overfull \hbox (22.23317pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 sente
+ []
+
+
+Overfull \hbox (10.73328pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 na
+ []
+
+
+Overfull \hbox (19.03876pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 hora
+ []
+
+
+Overfull \hbox (10.22217pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 da
+ []
+
+
+Overfull \hbox (22.99985pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 angs-
+ []
+
+
+Overfull \hbox (14.56657pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/it/10 tia,
+ []
+
+
+Overfull \hbox (27.08875pt too wide) in paragraph at lines 10--12
+ []\OT1/cmr/m/it/10 minha
+ []
+
+
+Overfull \hbox (12.26657pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 es-
+ []
+
+
+Overfull \hbox (21.97765pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 posa,
+ []
+
+
+Overfull \hbox (14.31104pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 aos
+ []
+
+
+Overfull \hbox (22.2332pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 meus
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 pais
+ []
+
+
+Overfull \hbox (4.59996pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 e
+ []
+
+
+Overfull \hbox (5.11108pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 a
+ []
+
+
+Overfull \hbox (27.08875pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 minha
+ []
+
+
+Overfull \hbox (21.46655pt too wide) in paragraph at lines 10--12
+ \OT1/cmr/m/it/10 filha.
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{dedicatoria}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{dedicatoria}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> pre_dedic.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10 strings out of 494862
+ 192 string characters out of 6178946
+ 47576 words of memory out of 5000000
+ 3438 multiletter control sequences out of 15000+600000
+ 3986 words of font info for 15 fonts, out of 8000000 for 9000
+ 38 hyphenation exceptions out of 8191
+ 13i,1n,10p,106b,124s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

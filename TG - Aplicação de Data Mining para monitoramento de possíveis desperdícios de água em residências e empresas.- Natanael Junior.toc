@@ -1,0 +1,39 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{15}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{16}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos}{16}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1} Objetivo Geral}{16}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Objetivo Espec\IeC {\'\i }fico}{16}{subsection.1.2.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Contextualiza\IeC {\c c}\IeC {\~a}o Tecnol\IeC {\'o}gica}}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}A Empresa TecSus}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}A Coleta dos dados}{17}{section.2.2}
+\contentsline {section}{\numberline {2.3}Dados e Informa\IeC {\c c}\IeC {\~a}o}{18}{section.2.3}
+\contentsline {section}{\numberline {2.4}\emph {Data Mining} (Minera\IeC {\c c}\IeC {\~a}o de Dados) e KDD}{19}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}\emph {Data Mining} (Minera\IeC {\c c}\IeC {\~a}o de Dados)}{19}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}KDD \emph {(Knowledge Discovery in Databases)}}{19}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Dist\IeC {\^a}ncia Euclidiana}{21}{section.2.5}
+\contentsline {section}{\numberline {2.6}Linguagem Python, e suas bibliotecas e ferramentas}{22}{section.2.6}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {DESENVOLVIMENTO DO TRABALHO}}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Coleta dos Dados}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Desenvolvimento do algoritmo}{23}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aplicando a formula da Dist\IeC {\^a}ncia Euclidiana em Python}{27}{section.3.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {RESULTADOS}}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Resultados obtidos com Dist\IeC {\^a}ncia Euclidiana}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Resultados obtidos com a Fun\IeC {\c c}\IeC {\~a}o para plotagem de gr\IeC {\'a}fico }{31}{section.4.2}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclus\IeC {\~a}o}}{47}{chapter.5}
+\contentsline {section}{\numberline {5.1}Trabalhos Futuros}{47}{section.5.1}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{49}{section*.61}
